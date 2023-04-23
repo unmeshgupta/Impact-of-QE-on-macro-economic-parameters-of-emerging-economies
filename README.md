@@ -20,17 +20,14 @@
 ---
 
 ### Data: 
-##### <font style="font-family: Georgia">1. For identification of the US interest rate shocks, I use the monthly dataset from 2007 to 2020 on the Industrial Production Index (IPI), Consumer Price Index (CPI), securities held outright by the Federal Reserve, and shadow interest rates of the United States. </font> 
+##### <font style="font-family: Georgia">1. For identification of the US interest rate shocks, I use the monthly dataset from 2007 to 2022 for following data:
 
-##### <font style="font-family: Georgia">2. I use a monthly dataset from 2007 to 2020 for a total of 3 emerging economies (Russia, India & China) and of USA to examine the spillover effects of US interest rate shocks over these EMEs. The dataset consists of:
+* Industrial Production Index (IPI)
+* Consumer Price Index (CPI)
+* Securities held outright by the Federal Reserve
+* Shadow interest rates of the United States. </font> 
 
-* IPI
-* CPI
-* Exchange rate
-* Money supply (broad money) 
-* Foreign exchange reserves
-
-Source: CEIC for collecting the data on all the variables. For 
+##### <font style="font-family: Georgia">2. I use a monthly dataset from 2007 to 2020 for a total of 29 emerging economies to examine the spillover effects of US interest rate shocks. The dataset consists of each EME’s IPI, CPI, exchange rate, money supply (broad money), and foreign exchange reserves. I use the global database platform CEIC for collecting the data on all the variables.
 </font> 
 
 ---
