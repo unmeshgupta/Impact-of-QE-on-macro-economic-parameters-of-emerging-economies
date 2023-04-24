@@ -52,6 +52,8 @@
 
 ##### <font style="font-family: Helvetica">-- Day 4: Consolidate results and publish</font> -- 
 
+More details about timeline can be found here : https://docs.google.com/document/d/1e3YhdkLxy2o2UeTLovZqhXc0RoyXrn9uFDnzffZB8dc/edit?usp=sharing
+
  
 
 
