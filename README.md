@@ -27,7 +27,13 @@
 * Securities held outright by the Federal Reserve
 * Shadow interest rates of the United States. </font> 
 
-##### <font style="font-family: Georgia">2. I use a monthly dataset from 2007 to 2020 for a total of 29 emerging economies to examine the spillover effects of US interest rate shocks. The dataset consists of each EME’s IPI, CPI, exchange rate, money supply (broad money), and foreign exchange reserves. I use the global database platform CEIC for collecting the data on all the variables.
+##### <font style="font-family: Georgia">2. I use a monthly dataset from 2007 to 2020 for a total of 3 emerging economies (Russia, India and China) to examine the spillover effects of US interest rate shocks. The dataset consists: 
+ 
+* IPI
+* CPI
+* Exchange rate
+* Money supply (broad money)
+* Foreign exchange reserves. I use the global database platform CEIC for collecting the data on all the variables.
 </font> 
 
 ---
