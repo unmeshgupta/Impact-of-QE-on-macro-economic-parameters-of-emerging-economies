@@ -1,4 +1,4 @@
-# Mid Term Project
+# Impact of Quantitative Easing on Emerging Market Economies (EMEs)
 ---
 
 ![Money: A perceived value](3500.webp)
