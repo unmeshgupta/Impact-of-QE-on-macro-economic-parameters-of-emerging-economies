@@ -10,7 +10,7 @@
 ### <font style="font-family: Arial">Problem Statement/Goal:</font> 
 
 
-##### <font style="font-family: Georgia">Our paper studies the effect of US interest rates on the macroeconomic condition of the Emerging Market Economies (EMEs). The study focuses on the reaction of exchange rates, broad money aggregates, and foreign exchange reserves to changes in US monetary policy</font> 
+##### <font style="font-family: Georgia">This research studies the effect of US interest rates on the macroeconomic condition of the Emerging Market Economies (EMEs). The study focuses on the reaction of exchange rates, broad money aggregates, and foreign exchange reserves to changes in US monetary policy</font> 
 ---
 
 ### Motivation behind the project:
