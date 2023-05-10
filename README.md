@@ -42,7 +42,7 @@
 
 * Money supply (broad money) refers to the total amount of money in circulation in an economy, including physical currency and deposits in bank accounts. 
 
-* Foreign exchange reserves refer to the foreign currencies held by a central bank or monetary authority as part of its monetary policy. Foreign exchange reserves are used to stabilize the exchange rate and to maintain confidence in the currency of the country holding the reserves.
+* Foreign exchange reserves refer to the foreign currencies held by a central bank or monetary authority as part of its monetary policy. 
 
 
 Global database platform CEIC for collecting the data on all the variables.
