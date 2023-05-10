@@ -51,21 +51,6 @@ Global database platform CEIC for collecting the data on all the variables.
 ---
 
 
-### High-level Planning of the project, e.g:
 
-##### <font style="font-family: Helvetica">-- Day 1: Strategy: matching the problem with the solution/Data Access</font> 
-
-
-##### <font style="font-family: Helvetica"> -- Day 2: Dataset preparation and preprocessing</font> 
-
-
-##### <font style="font-family: Helvetica">-- Day 3: Dataset splitting, Modeling Evaluating</font> 
-
-
-##### <font style="font-family: Helvetica">-- Day 4: Consolidate results and publish</font> -- 
-
-More details about timeline can be found here : https://docs.google.com/document/d/1e3YhdkLxy2o2UeTLovZqhXc0RoyXrn9uFDnzffZB8dc/edit?usp=sharing
-
- 
 
 
