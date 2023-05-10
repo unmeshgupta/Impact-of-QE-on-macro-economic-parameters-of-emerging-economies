@@ -29,11 +29,18 @@
 
 ##### <font style="font-family: Georgia">Model 2: I use a monthly dataset from 2007 to 2020 for a total of 3 emerging economies (Russia, India and China) to examine the spillover effects of US interest rate shocks. The dataset consists: 
  
-* IPI
-* CPI
-* Exchange rate
-* Money supply (broad money)
-* Foreign exchange reserves. I use the global database platform CEIC for collecting the data on all the variables.
+* IPI stands for Industrial Production Index, which is a measure of the physical output of the industrial sector of an economy. It typically includes manufacturing, mining, and utilities. The IPI can be used to gauge the overall health of an economy's industrial sector and is often used as an indicator of the overall health of the economy.
+
+* CPI stands for Consumer Price Index, which is a measure of the average change in prices of goods and services consumed by households over time. It is used to track inflation, which is the rate at which the general level of prices for goods and services is rising.
+
+* Exchange rate refers to the value of one currency in relation to another currency. It is the rate at which one currency can be exchanged for another currency. Exchange rates are determined by the supply and demand for currencies in the foreign exchange market.
+
+* Money supply (broad money) refers to the total amount of money in circulation in an economy, including physical currency and deposits in bank accounts. Broad money is a measure of the total amount of money available for spending and investing in an economy.
+
+* Foreign exchange reserves refer to the foreign currencies held by a central bank or monetary authority as part of its monetary policy. Foreign exchange reserves are used to stabilize the exchange rate and to maintain confidence in the currency of the country holding the reserves.
+
+
+Global database platform CEIC for collecting the data on all the variables.
 </font> 
 
 ---
