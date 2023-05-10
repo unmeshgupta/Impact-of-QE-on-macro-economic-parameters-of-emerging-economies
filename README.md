@@ -20,14 +20,14 @@
 ---
 
 ### Data: 
-##### <font style="font-family: Georgia">1. For identification of the US interest rate shocks, I use the monthly dataset from 2007 to 2022 for following data:
+##### <font style="font-family: Georgia">Model 1. For identification of the US interest rate shocks, I use the monthly dataset from 2007 to 2022 for following data:
 
 * Industrial Production Index (IPI)
 * Consumer Price Index (CPI)
 * Securities held outright by the Federal Reserve
 * Shadow interest rates of the United States. </font> 
 
-##### <font style="font-family: Georgia">2. I use a monthly dataset from 2007 to 2020 for a total of 3 emerging economies (Russia, India and China) to examine the spillover effects of US interest rate shocks. The dataset consists: 
+##### <font style="font-family: Georgia">Model 2. I use a monthly dataset from 2007 to 2020 for a total of 3 emerging economies (Russia, India and China) to examine the spillover effects of US interest rate shocks. The dataset consists: 
  
 * IPI
 * CPI
